@@ -1,0 +1,19 @@
+{
+  "name": "time",
+  "version": "1.0.0",
+  "description": "Simple Clock App",
+  "main": "index.js",
+  "author": "dannylindquist",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "moment": "^2.18.1",
+    "next": "^2.2.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}

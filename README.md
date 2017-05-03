@@ -1,2 +1,3 @@
 # clock_fun
-Re-familiarizing myself with react
+
+Always wanted to build a simple clock app. Its simple and easy to start playing with react and next.js
